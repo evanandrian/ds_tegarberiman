@@ -1,5 +1,5 @@
 #!/bin/bash
-"D:\ds_bagaswaras\kill_DS.exe" $1 &
+"D:\ds_tegarberiman\kill_DS.exe" $1 &
 git pull
-"D:\ds_bagaswaras\DesktopService.exe" $1 &
+"D:\ds_tegarberiman\DesktopService.exe" $1 &
 
